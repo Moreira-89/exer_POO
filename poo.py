@@ -20,8 +20,8 @@ class Circulo(FiguraGeometrica):
     def area(self):
         raio = float(input("Digite o raio do Circulo: "))
         return math.pi * (raio ** 2)
-    
-triangulo = Triangulo()
+#criei tres instancias
+triangulo = Triangulo() 
 retangulo = Retangulo()
 circulo = Circulo()
 
