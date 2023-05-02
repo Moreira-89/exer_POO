@@ -17,7 +17,7 @@ __Prof. Dr.__ Leandro Luque
     
   Escreva um programa principal também e represente as classes com UML.
 ***
-### Resolução da pratica 04: 
+### Resolução da prática 04: 
 * Aqui é a parte do código que o Professor pediu:
     * Fiz o programa todo utilizando a linguagem de programação Python; 
     * Escolhi essa linguagem, pois tenho mais facilidade e também por ela ser uma linguagem de programação orientada a objeto (POO).
