@@ -1,3 +1,6 @@
+<div align="left">
+  <img src="logo_centro.png" alt="logo centro paula souza" width="500" height="500">
+</div>
 
 <div align="center">
   <img src="https://www.fatecmogidascruzes.com.br/images/logo_colorido.svg" width="200" height="200">
