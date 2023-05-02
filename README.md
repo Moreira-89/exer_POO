@@ -1,4 +1,4 @@
-__Nome__: Lucas Moreira Alves Rodrigues   __RA__: 1840482122014
+__Nome__: Lucas M. A. Rodrigues
 
 __Prof. Dr.__ Leandro Luque
 
