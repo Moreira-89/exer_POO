@@ -2,7 +2,7 @@ __Nome__: Lucas Moreira Alves Rodrigues   __RA__: 1840482122014
 
 __Prof. Dr.__ Leandro Luque
 
-## Pratica 04: Orientado a Objeto
+## Prática 04: Orientado a Objeto
 
 ### O que temos que fazer? 
 
