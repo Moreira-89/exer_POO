@@ -22,3 +22,5 @@ __Nome__: Lucas Moreira Alves Rodrigues   __RA__: 1840482122014
 print('Coloca aqui o código')
 ```
 Fiz algumas modificações no código, além de colocar o cálculo do triângulo, retângulo e circulo achei interessante colocar o cálculo do quadrado também. Queria colocar outras formas geométricas como losango ou trapézio, só que eu teria que importa mais uma biblioteca e o código iria ficar muito grande.
+
+### Representação das classes com UML
