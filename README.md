@@ -1,4 +1,8 @@
 
+<div align="center">
+  <img src="https://www.fatecmogidascruzes.com.br/images/logo_colorido.svg" width="200" height="200">
+</div>
+
 __Nome__: Lucas Moreira Alves Rodrigues   __RA__: 1840482122014     
 
 ## Pratica 04: Orientado a Objeto
