@@ -1,32 +1,13 @@
 import math
+from triangulo import Triangulo
 
-class FiguraGeometrica:
-    def area(self):
-        pass
+from quadrado import Quadrado
 
-class Triangulo(FiguraGeometrica):
-    def area(self):
-        base = float(input("Digite a base do Triangulo: "))
-        altura = float(input("Digite a altura do Triangulo: "))
-        return (base * altura) / 2
+from retangulo import Retangulo
 
-class Retangulo(FiguraGeometrica):
-    def area(self):
-        base = float(input("Digite a base do Retangulo: "))
-        altura = float(input("Digite a altura do Retangulo: "))
-        return base * altura
-    
-class Circulo(FiguraGeometrica):
-    def area(self):
-        raio = float(input("Digite o raio do Circulo: "))
-        return math.pi * (raio ** 2)
-    
-class Quadrado(FiguraGeometrica):
-    def area(self):
-        lado = float(input("Digite o lado do quadrado: "))
-        return lado ** 2
-    
-#criei tres instancias
+from circulo import Circulo
+
+
 triangulo = Triangulo() 
 retangulo = Retangulo()
 circulo = Circulo()
