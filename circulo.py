@@ -1,3 +1,4 @@
+from FiguraGeometrica import FiguraGeometrica
 import math
 
 class Circulo:

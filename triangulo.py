@@ -1,3 +1,4 @@
+from FiguraGeometrica import FiguraGeometrica
 class Triangulo:
     def area(self):
         base = float(input("Digite a base do Triangulo: "))
