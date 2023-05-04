@@ -38,8 +38,18 @@ print("Área do retangulo: ", retangulo.area())
 print("Área do circulo: ", circulo.area())
 print("Área do quadrado: ",quadrado.area())
 ```
+__Classe FiguraGeometrica (figurageometrica.py)__
+```
+class FiguraGeometrica:
+    def area(self):
+        pass
+
+#essa classe é uma base para as outras classes que contém um método area vazio. 
+Essa classe é utilizada para ser herdada por outras classes
+```
 __Classe Triangulo (triangulo.py)__
 ```
+from FiguraGeometrica import FiguraGeometrica
 class Triangulo:
     def area(self):
         base = float(input("Digite a base do Triangulo: "))
@@ -48,6 +58,7 @@ class Triangulo:
 ```
 __Classe Quadrado (quadrado.py)__
 ```
+from FiguraGeometrica import FiguraGeometrica
 class Quadrado:
     def area(self):
         lado = float(input("Digite o lado do quadrado: "))
@@ -55,6 +66,7 @@ class Quadrado:
 ```
 __Classe Retangulo (retangulo.py)__
 ```
+from FiguraGeometrica import FiguraGeometrica
 class Retangulo:
     def area(self):
         base = float(input("Digite a base do Retangulo: "))
@@ -63,6 +75,7 @@ class Retangulo:
 ```
 __Classe Circulo (circulo.py)__
 ```
+from FiguraGeometrica import FiguraGeometrica
 import math
 class Circulo:
     def area(self):
