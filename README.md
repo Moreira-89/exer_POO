@@ -47,6 +47,8 @@ class FiguraGeometrica:
 #essa classe é uma base para as outras classes que contém um método area vazio. 
 Essa classe é utilizada para ser herdada por outras classes
 ```
+Essa classe FiguraGeometrica é a base para as outras classes. 
+
 __Classe Triangulo (triangulo.py)__
 ```
 from FiguraGeometrica import FiguraGeometrica
